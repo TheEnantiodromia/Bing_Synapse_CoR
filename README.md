@@ -5,3 +5,5 @@ Original:
 https://github.com/ProfSynapse/Synapse_CoR
 
 All I did was remove the emojis which would trigger BingAI to reject the prompt.
+
+Only works on the desktop version of BingAI for some reason.
